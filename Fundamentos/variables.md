@@ -44,3 +44,16 @@ camelCase = "Comienza con minuscula y el resto de las palabras con mayuscula"
 PascalCase = "Comienza con mayuscula y el resto de palabras tambien siguen en mayuscula"
 snake_case = "Se separan las palabras con guiones bajos"
 ```
+
+# Asignacion multiple de variables
+
+```python
+x,y,z = "Manzana", "Naranja", "Banana"
+print(x,y,z)
+
+a = b = c = "Mandarina"
+print(a,b,c)
+
+# Concatenar
+print("Mi fruta favorita es: " + x)
+```
