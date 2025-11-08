@@ -1,6 +1,7 @@
 # La sintaxis
 
 La sintaxis son las reglas que debemos cumplir para que Python pueda interpretar nuestro código correctamente.
+Ademas si queremos imprimir algo en consola colocamos el comando print que funciona para esto.
 
 ```python
 if 5 > 3:
